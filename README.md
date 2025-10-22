@@ -79,6 +79,14 @@ The dataset had 10,000+ app records with inconsistencies. Key preprocessing step
 
 ---
 
+## 📸 Project Screenshot
+
+
+<img width="1920" height="1080" alt="Screenshot 2025-10-22 172011" src="https://github.com/user-attachments/assets/44b27c53-8f35-421e-ae25-4887255f656e" />
+
+
+---
+
 ## 🧠 Machine Learning Model
 
 **Model:** Random Forest Regressor  
