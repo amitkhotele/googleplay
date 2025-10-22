@@ -83,6 +83,9 @@ The dataset had 10,000+ app records with inconsistencies. Key preprocessing step
 
 
 <img width="1920" height="1080" alt="Screenshot 2025-10-22 172011" src="https://github.com/user-attachments/assets/44b27c53-8f35-421e-ae25-4887255f656e" />
+<img width="1920" height="1080" alt="Screenshot 2025-10-22 172110" src="https://github.com/user-attachments/assets/10f3c599-c290-4d4e-b61d-f8c7834459eb" />
+<img width="1920" height="1080" alt="Screenshot 2025-10-22 172100" src="https://github.com/user-attachments/assets/63eaf13f-80ad-4e99-9b8f-77d5c9245bbd" />
+
 
 
 ---
