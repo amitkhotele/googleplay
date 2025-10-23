@@ -1,0 +1,19 @@
+# Core Data & Machine Learning
+pandas
+numpy
+scikit-learn
+joblib
+
+# Visualization
+matplotlib
+seaborn
+plotly
+
+# Dashboard & Web App
+streamlit
+
+# PDF Generation
+reportlab
+
+# Utility
+python-dateutil
