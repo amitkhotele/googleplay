@@ -2,6 +2,7 @@
 
 **Domain:** Data Analytics | Machine Learning | Streamlit Dashboard  
 **Developer:** Amit Khotele  
+**Project Link:**https://playstore.streamlit.app/
 
 ---
 
